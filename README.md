@@ -74,4 +74,13 @@
 ![img_30.png](img_30.png)
 ![img_31.png](img_31.png)
 
+### Methode 1
+![img_36.png](img_36.png)
+![img_32.png](img_32.png)
+
+### Methode 2
+![img_33.png](img_33.png)
+![img_35.png](img_35.png)
+![img_34.png](img_34.png)
+
 ## 9. Créer un client Angular
