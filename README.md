@@ -83,4 +83,10 @@
 ![img_35.png](img_35.png)
 ![img_34.png](img_34.png)
 
+### Actuator refresh
+![img_38.png](img_38.png)
+![img_39.png](img_39.png)
+
+![img_40.png](img_40.png)
+
 ## 9. Créer un client Angular
