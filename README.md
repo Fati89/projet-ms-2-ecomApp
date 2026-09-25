@@ -60,5 +60,11 @@
 
 ![img_23.png](img_23.png)
 
+### CircuitBreaker
+![img_25.png](img_25.png)
+
+### Tolérance au pannes (Resilience()
+![img_24.png](img_24.png)
+
 ## 8. Créer le service de configuration         
 ## 9. Créer un client Angular
